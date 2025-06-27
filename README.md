@@ -44,7 +44,7 @@ This scraper works by:
 ### Requirements
 
 ```bash
-pip install selenium pandas
+pip install selenium pandas bs4
 ```
 ### Make sure you have
 1. Google Chrome installed
